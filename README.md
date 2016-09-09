@@ -1,4 +1,5 @@
-A wrapper to luagl.
+ 
+A wrapper to luagl.  Contributions from Jonathan Tompson and Kristofer Schlachter.  See readme.txt for original authors of LuaGL.
 
 This is a modified version of the LuaGL source code to make it compatible with torch7.
 
